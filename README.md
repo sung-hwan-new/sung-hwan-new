@@ -1,4 +1,4 @@
-## Nice to see you! 반갑습니다! 👋
+## 👋 Nice to see you! 반갑습니다! 
 
 <h3 align="left">🛠️ Tech Stack & Tool | 보유 기술 & 도구</h3>
 <div align="left">
